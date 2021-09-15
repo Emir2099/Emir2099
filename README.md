@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Js :3
 - 👯 I’m looking to collaborate on nothing tbh
 - 🤔 I’m looking for help with my studies ;-;
-- 💬 Ask me about ben 10 XD
+- 💬 Ask me about ben 10 XD 
+- 😊 Check out my friend [AK](https://github.com/AkshatOP)
 - 📫 How to reach me: Through my [discord server](https://discord.gg/vM29v9W2kv)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQCyDttWpFIc8r2HmaCcKRE8VU6R1zbyYCw&usqp=CAU">
