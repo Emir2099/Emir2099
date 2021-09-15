@@ -1,5 +1,5 @@
 ### YO! Nice to meet you
-
+<:vscode:849286765478543370>
 - 🔭 I’m currently working on Gaming bots 
 - 🌱 I’m currently learning Js :3
 - 👯 I’m looking to collaborate on nothing tbh
