@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on nothing tbh
 - 🤔 I’m looking for help with my studies ;-;
 - 💬 Ask me about ben 10 XD
-- 📫 How to reach me: Through my [discord server](https://discord.gg/vM29v9W2kv
+- 📫 How to reach me: Through my [discord server](https://discord.gg/vM29v9W2kv)
 
 
 ### Stats:-
