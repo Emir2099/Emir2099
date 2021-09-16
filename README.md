@@ -15,7 +15,7 @@
 idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a 
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/4228_discord_bot_dev.png" width="50" height= "40"/> </a> <a
 <p align="left"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="40" height="40"/> </a> <a
-<p align="left"> <img src="https://aoi.js.org/assets/images/aoijs-new.png" width="60" height="40"/></a> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/83202021?s=280&v=4" width="40" height="40"/></a> </p>
 
 ### Stats:-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=ffd700&style=flat" alt="emir2099" /> </p>
