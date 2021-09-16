@@ -22,7 +22,7 @@ idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir2099&" alt="emir2099" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=bb2acf&style=flat" alt="emir2099" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=ffd700&style=flat" alt="emir2099" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emir2099" alt="emir2099" /></a> </p>
 
