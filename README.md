@@ -31,14 +31,7 @@ idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank">
 <p align="center"> <a href="https://code.visualstudio.com/" target="_/blank"> <img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" width="40" height="40"/> </a> </p>
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
-### Stats:-
+## My GitHub Stats:-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=ffd700&style=flat" alt="emir2099" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Emir2099&&show_icons=true&title_color=ffd700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
