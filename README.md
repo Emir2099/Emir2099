@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on nothing tbh
 - 🤔 I’m looking for help with my studies ;-;
 - 💬 Ask me about ben 10 XD 
-- 😊 Check out my friend [AK](https://github.com/AkshatOP)<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/4228_discord_bot_dev.png" width="40" height= "40"/>
+- 😊 Check out my friend [AK](https://github.com/AkshatOP)  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/4228_discord_bot_dev.png" width="40" height= "40"/>
 - 📫 How to reach me: Through my [discord server](https://discord.gg/vM29v9W2kv)
 <img src="http://ansyori28.files.wordpress.com/2012/08/spidey3_banner.jpg">
 
