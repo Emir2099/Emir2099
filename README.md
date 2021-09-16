@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with my studies ;-;
 - 💬 Ask me about ben 10 XD 
 - 😊 Check out my friend [AK](https://github.com/AkshatOP)
-- 📫 How to reach me: Through my [discord server](https://discord.gg/vM29v9W2kv)
 <img src="http://ansyori28.files.wordpress.com/2012/08/spidey3_banner.jpg">
 
 ## ✉️ Find me on:
