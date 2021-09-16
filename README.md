@@ -16,7 +16,7 @@ idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank">
 <p align="left"> <a href="https://aoi.js.org/index.html" target="_blank"> <img src="https://avatars.githubusercontent.com/u/83202021?s=280&v=4" width="40" height="40"/> </a> <a
 <p align="left"> <a href="https://botdesignerdiscord.com/" target="_blank"> <img src="https://data.apksum.com/b3/com.jakubtomana.discordbotdesinger/1.12.5/icon.png" width="40" height="40"/> </a> <a
 <p align="left"> <a href="https://dbd.js.org/" target="_blank"> <img src="https://images.discordapp.net/avatars/772968022691676210/981f79673563f7268f4e6a88f1091787.png?size=128" width="40" height= "40"/> </a> <a
-<p align="left"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://code.visualstudio.com/" target="_/blank"> <img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" width="40" height="40"/> </a> </p>
 
 ### Stats:-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=ffd700&style=flat" alt="emir2099" /> </p>
