@@ -1,5 +1,6 @@
-### YO! nice to meet you
-
+## YO! nice to meet you, Myself Emir
+![](https://visitor-badge.laobi.icu/badge?page_id=emir2099.emir2099)
+[![Github](https://img.shields.io/github/followers/emir2099?label=Follow&style=social)](https://github.com/emir2099)
 - 🔭 I’m currently working on Gaming bots 
 - 🌱 I’m currently learning Js :3
 - 👯 I’m looking to collaborate on nothing tbh
