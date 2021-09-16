@@ -1,5 +1,4 @@
 ## YO! nice to meet you, Myself Emir
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=ffd700&style=flat" alt="emir2099" /> </p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=emir2099.emir2099)
 [![Github](https://img.shields.io/github/followers/emir2099?label=Follow&style=social)](https://github.com/emir2099)
 
