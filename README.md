@@ -1,4 +1,4 @@
-### YO! Nice to meet
+### YO! nice to meet you
 
 - 🔭 I’m currently working on Gaming bots 
 - 🌱 I’m currently learning Js :3
