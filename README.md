@@ -1,4 +1,5 @@
 ## YO! nice to meet you, Myself Emir
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=ffd700&style=flat" alt="emir2099" /> </p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=emir2099.emir2099)
 [![Github](https://img.shields.io/github/followers/emir2099?label=Follow&style=social)](https://github.com/emir2099)
 
@@ -32,7 +33,6 @@ idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank">
 
 
 ## My GitHub Stats:-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=ffd700&style=flat" alt="emir2099" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Emir2099&&show_icons=true&title_color=ffd700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
