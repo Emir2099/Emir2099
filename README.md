@@ -7,7 +7,7 @@
 - 💬 Ask me about ben 10 XD 
 - 😊 Check out my friend [AK](https://github.com/AkshatOP)
 - 📫 How to reach me: Through my [discord server](https://discord.gg/vM29v9W2kv)
-
+<img src="https://cdn.statically.io/img/timelinecovers.pro/facebook-cover/download/marvel-venom-facebook-cover.jpg>"
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQCyDttWpFIc8r2HmaCcKRE8VU6R1zbyYCw&usqp=CAU">
 
 <h3 align="left">Languages and Tools:</h3>
