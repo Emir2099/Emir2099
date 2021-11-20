@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=1F51FF&style=flat" alt="emir2099" /> </p>
 
 ## I am a student and Gamer
-- 🔭 I’m currently working on Gaming bots 
-- 🌱 I’m currently learning Js :3
+- 🔭 I’m currently working on many projects
+- 🌱 I’m currently learning Py and Html/Css :3
 - 👯 I’m looking to collaborate on nothing tbh
 - 🤔 I’m looking for help with my studies ;-;
 - 💬 Ask me about ben 10 XD 
