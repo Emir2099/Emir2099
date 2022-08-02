@@ -28,7 +28,7 @@
 idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a 
 <p align="center"> <a href="https://aoi.js.org/index.html" target="_blank"> <img src="https://avatars.githubusercontent.com/u/83202021?s=280&v=4" width="40" height="40"/> </a> <a
 <p align="center"> <a href="https://botdesignerdiscord.com/" target="_blank"> <img src="https://data.apksum.com/b3/com.jakubtomana.discordbotdesinger/1.12.5/icon.png" width="40" height="40"/> </a> <a
-<p align="center"> <a href="https://dbd.js.org/" target="_blank"> <img src="https://images.discordapp.net/avatars/772968022691676210/981f79673563f7268f4e6a88f1091787.png?size=128" width="40" height= "40"/> </a> <a
+</a> <a
 <p align="center"> <a href="https://code.visualstudio.com/" target="_/blank"> <img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" width="40" height="40"/> </a> </p>
 
 
