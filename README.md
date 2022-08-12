@@ -1,6 +1,6 @@
 ## 👋 Hola! nice to meet you, Myself Emir
-![](https://visitor-badge.laobi.icu/badge?page_id=emir2099.emir2099)
-[![Github](https://img.shields.io/github/followers/emir2099?label=Follow&style=social)](https://github.com/emir2099)
+<!--[](https://visitor-badge.laobi.icu/badge?page_id=emir2099.emir2099)
+[![Github](https://img.shields.io/github/followers/emir2099?label=Follow&style=social)](https://github.com/emir2099) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=1F51FF&style=flat" alt="emir2099" /> </p>
 
 ## 🧑 I am a student and Gamer
