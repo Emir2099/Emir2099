@@ -36,8 +36,9 @@ idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Emir2099&&show_icons=true&title_color=ffd700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emir2099" alt="emir2099" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emir2099" alt="emir2099" /></a> </p>-->
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&count_private=true"></div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir2099&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir2099&theme=tokyonight">
 
 
