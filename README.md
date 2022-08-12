@@ -1,9 +1,9 @@
-## Hola! nice to meet you, Myself Emir
+## 👋 Hola! nice to meet you, Myself Emir
 ![](https://visitor-badge.laobi.icu/badge?page_id=emir2099.emir2099)
 [![Github](https://img.shields.io/github/followers/emir2099?label=Follow&style=social)](https://github.com/emir2099)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=1F51FF&style=flat" alt="emir2099" /> </p>
 
-## I am a student and Gamer
+## 🧑 I am a student and Gamer
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning Py and Html/Css 
 - 👯 I’m looking to collaborate on nothing tbh
@@ -32,13 +32,13 @@ idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank">
 <p align="center"> <a href="https://code.visualstudio.com/" target="_/blank"> <img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" width="40" height="40"/> </a> </p>
 
 
-## My GitHub Stats:-
+## 📊 My GitHub Stats:-
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Emir2099&&show_icons=true&title_color=ffd700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></div>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emir2099" alt="emir2099" /></a> </p>-->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&count_private=true"></div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir2099&theme=tokyonight">
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir2099&theme=tokyonight">-->
 
 
