@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ML
 - 💬 Ask me about aoi.js
 - 😊 Check out my friend [AK](https://github.com/AkshatOP)
-<--<img src="http://ansyori28.files.wordpress.com/2012/08/spidey3_banner.jpg">-->
+<!--<img src="http://ansyori28.files.wordpress.com/2012/08/spidey3_banner.jpg">-->
 
 ## ✉️ Find me on:
 
