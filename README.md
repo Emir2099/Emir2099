@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning Py and Html/Css :3
 - 👯 I’m looking to collaborate on nothing tbh
-- 🤔 I’m looking for help with my studies ;-;
-- 💬 Ask me about ben 10 XD 
+- 🤔 I’m looking for help with ML
+- 💬 Ask me about aoi.js
 - 😊 Check out my friend [AK](https://github.com/AkshatOP)
 <img src="http://ansyori28.files.wordpress.com/2012/08/spidey3_banner.jpg">
 
