@@ -38,4 +38,6 @@ idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emir2099" alt="emir2099" /></a> </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir2099&theme=tokyonight">
+
 
