@@ -5,7 +5,7 @@
 
 ## I am a student and Gamer
 - 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning Py and Html/Css :3
+- 🌱 I’m currently learning Py and Html/Css 
 - 👯 I’m looking to collaborate on nothing tbh
 - 🤔 I’m looking for help with ML
 - 💬 Ask me about aoi.js
