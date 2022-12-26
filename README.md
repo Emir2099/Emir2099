@@ -4,11 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=1F51FF&style=flat" alt="emir2099" /> </p>
 
 ## 🧑 I am a student and Gamer
-- 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning Py and Html/Css 
-- 👯 I’m looking to collaborate on nothing tbh
-- 🤔 I’m looking for help with ML
-- 💬 Ask me about aoi.js
+- 💬 Ask me about aoi.js/Python/HTML/Blueprints
 - 😊 Check out my friend [AK](https://github.com/AkshatOP)
 <!--<img src="http://ansyori28.files.wordpress.com/2012/08/spidey3_banner.jpg">-->
 
