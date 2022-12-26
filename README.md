@@ -16,6 +16,7 @@
 
 
 <p align="center">
+ <a href="https://www.linkedin.com/in/emir-husain-79555624a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style"vertical-align:top; margin:4px"> </a>
  <a href="https://discord.gg/vM29v9W2kv" target="_blank" rel="noopener noreferrer"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 
 <br />
