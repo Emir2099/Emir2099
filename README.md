@@ -13,7 +13,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/emir-husain-79555624a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style"vertical-align:top; margin:4px"> </a>
- <a href="https://discord.gg/vM29v9W2kv" target="_blank" rel="noopener noreferrer"> <img src="![image](https://user-images.githubusercontent.com/84385451/211855426-2f4bffdd-b4bb-4f38-adcd-9a7b28dc95d3.png)" alt="Discord" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://discord.gg/vM29v9W2kv" target="_blank" rel="noopener noreferrer"> <img src="[![image](https://user-images.githubusercontent.com/84385451/211855426-2f4bffdd-b4bb-4f38-adcd-9a7b28dc95d3.png)](https://cdn-icons-png.flaticon.com/512/2111/2111370.png)" alt="Discord" height="40" style="vertical-align:top; margin:4px"> </a>
 
 <br />
 
