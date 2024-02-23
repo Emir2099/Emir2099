@@ -1,41 +1,40 @@
-## 👋 Hola! nice to meet you, Myself Emir
-<!--[](https://visitor-badge.laobi.icu/badge?page_id=emir2099.emir2099)
-[![Github](https://img.shields.io/github/followers/emir2099?label=Follow&style=social)](https://github.com/emir2099) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emir2099&label=Profile%20views&color=1F51FF&style=flat" alt="emir2099" /> </p>
+# 👋 Hola! I'm Emir
+![Profile Views](https://komarev.com/ghpvc/?username=emir2099&color=blue)
 
-## 🧑 I am a student and Gamer
-- 💬 Ask me about aoi.js/Python/HTML/Blueprints
-- 😊 Check out my friend [AK](https://github.com/AkshatOP)
-<!--<img src="http://ansyori28.files.wordpress.com/2012/08/spidey3_banner.jpg">-->
+## 🧑 About Me
+I'm a student and an avid gamer. I have a keen interest in programming and love to work on aoi.js, Python, HTML, and Blueprints. Feel free to ask me anything about these topics!
 
-## ✉️ Find me on:
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emir-husain-79555624a/)
 
+## 🧰 Languages and Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=heroku)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![AOI.js](https://img.shields.io/badge/-AOI.js-blue?style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visual-studio-code)
 
-<p align="center">
- <a href="https://www.linkedin.com/in/emir-husain-79555624a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style"vertical-align:top; margin:4px"> </a>
- <!--<a href="https://discord.gg/vM29v9W2kv" target="_blank" rel="noopener noreferrer"> <img src="[![image](https://user-images.githubusercontent.com/84385451/211855426-2f4bffdd-b4bb-4f38-adcd-9a7b28dc95d3.png)](https://cdn-icons-png.flaticon.com/512/2111/2111370.png)" alt="Discord" height="40" style="vertical-align:top; margin:4px"> </a> -->
-
-<br />
-
-
-
-## 🧰 **Languages and Tools:**
-
-<p align="center"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <span> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </span> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" w![image](https://user-images.githubusercontent.com/84385451/133424608-079984c1-7a33-4207-b455-71a05044a7f8.png)
-idth="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a 
-<p align="center"> <a href="https://aoi.js.org/index.html" target="_blank"> <img src="https://avatars.githubusercontent.com/u/83202021?s=280&v=4" width="40" height="40"/> 
-</a> <a
-<p align="center"> <a href="https://code.visualstudio.com/" target="_/blank"> <img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" width="40" height="40"/> </a> </p>
-
-
-## 📊 My GitHub Stats:-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Emir2099&&show_icons=true&title_color=ffd700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></div>
-<br>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&count_private=true"></div>
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir2099&theme=tokyonight"></div>
-
-
-
-
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Emir2099&show_icons=true&title_color=ffd700&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir2099&title_color=ffd700&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir2099&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
