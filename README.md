@@ -19,22 +19,23 @@ I'm a student and an avid gamer. I have a keen interest in programming and love 
 
 ## 📊 GitHub Stats
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Emir2099&show_icons=true&title_color=ffd700&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir2099&title_color=ffd700&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&count_private=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir2099&theme=tokyonight" />
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Emir2099&show_icons=true&title_color=ffd700&theme=tokyonight&count_private=true" />
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir2099&title_color=ffd700&theme=tokyonight&count_private=true" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&count_private=true" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir2099&theme=tokyonight" />
+        </td>
+    </tr>
 </table>
+
