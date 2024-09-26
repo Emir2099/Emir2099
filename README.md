@@ -34,7 +34,7 @@ I'm a student and an avid gamer. I have a keen interest in programming and love 
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir2099&theme=tokyonight&count_private=true" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir2099&theme=tokyonight" />
         </td>
     </tr>
 </table>
