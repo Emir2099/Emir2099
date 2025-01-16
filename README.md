@@ -25,7 +25,7 @@
         <li>🎮 Avid gamer and tech enthusiast</li>
         <li>💻 Currently mastering AOI.js and Python</li>
         <li>🌱 Always exploring new technologies</li>
-        <li>🎯 2024 Goals: Contribute more to Open Source</li>
+        <li>🎯 2025 Goals: Contribute more to Open Source</li>
         <li>⚡ Fun fact: I debug code faster than finding keys!</li>
       </ul>
     </td>
