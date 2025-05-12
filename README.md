@@ -64,11 +64,11 @@
 <!-- Projects Section with 3D Cards -->
 <h2>🎯 Featured Projects</h2>
 <div align="center">
-  <a href="https://github.com/Emir2099/Expense-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=Expense-Tracker&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/Emir2099/Ardent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=Ardent&theme=tokyonight&bg_color=0d1117&hide_border=true" />
   </a>
-  <a href="https://github.com/Emir2099/Cardfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=Cardfolio&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/Emir2099/chess_with_unity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=chess_with_unity&theme=tokyonight&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
 
