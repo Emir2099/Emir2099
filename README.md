@@ -23,10 +23,10 @@
       <img align="right" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
       <ul align="left">
         <li>🎮 Avid gamer and tech enthusiast</li>
-        <li>💻 Currently mastering AOI.js and Python</li>
+        <li>💻 Currently mastering Neuromorphic system</li>
         <li>🌱 Always exploring new technologies</li>
-        <li>🎯 2025 Goals: Contribute more to Open Source</li>
-        <li>⚡ Fun fact: I debug code faster than finding keys!</li>
+        <li>🎯 2026 Goals: Take on more research work</li>
+        <li>⚡ Fun fact: I get cool project ideas during exams!</li>
       </ul>
     </td>
     <td width="50%">
