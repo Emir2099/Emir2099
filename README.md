@@ -160,23 +160,23 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   <tbody>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>8h ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>13h ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>8h ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>14h ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>8h ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>14h ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>8h ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>14h ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>8h ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>14h ago</i></td>
   </tr>
   </tbody>
 </table>
