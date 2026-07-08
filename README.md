@@ -137,7 +137,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Emir2099&repo=Ardent&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
   </a>
   <a href="https://github.com/Emir2099/chess_with_unity">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Emir2099&repo=chess_with_unity&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Emir2099&repo=NeuroSpark&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
   </a>
 </div>
 
@@ -150,46 +150,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <td width="50%" valign="top">
       <h3>🕒 Recent Activity</h3>
 <!--RECENT_ACTIVITY:START-->
-<<<<<<< HEAD
-<table width="100%" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 6px;">
-  <thead>
-    <tr style="background-color: #161b22;">
-      <th align="left" style="padding: 8px; font-size: 13px;">Action Log</th>
-      <th align="left" style="padding: 8px; font-size: 13px;">Timestamp</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/MemristorSim-3D</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>5d ago</i></td>
-  </tr>
-  </tbody>
-</table>
-=======
-| Action Log | Timestamp |
-| :--- | :--- |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/MemristorSim-3D` | _5d ago_ |
->>>>>>> 3c9918faa35c6c2f2067332f7569f1a1c4ee8d57
+
 <!--RECENT_ACTIVITY:END-->
     </td>
     <td width="50%" valign="top">
