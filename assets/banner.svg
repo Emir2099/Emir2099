@@ -1,0 +1,65 @@
+<svg viewBox="0 0 1000 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#151a2c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="210" fill="url(#bg)"/>
+
+  <!-- crossbar array motif: memristive in-memory computing -->
+  <g stroke="#2a2f4a" stroke-width="1">
+    <line x1="600" y1="35" x2="960" y2="35"/>
+    <line x1="600" y1="70" x2="960" y2="70"/>
+    <line x1="600" y1="105" x2="960" y2="105"/>
+    <line x1="600" y1="140" x2="960" y2="140"/>
+    <line x1="600" y1="175" x2="960" y2="175"/>
+    <line x1="645" y1="15" x2="645" y2="195"/>
+    <line x1="705" y1="15" x2="705" y2="195"/>
+    <line x1="765" y1="15" x2="765" y2="195"/>
+    <line x1="825" y1="15" x2="825" y2="195"/>
+    <line x1="885" y1="15" x2="885" y2="195"/>
+    <line x1="945" y1="15" x2="945" y2="195"/>
+  </g>
+
+  <!-- resting cells: state 0 (dim) and state 1 (bright) -->
+  <g fill="#3a3f5c">
+    <circle cx="645" cy="35" r="3"/>
+    <circle cx="705" cy="35" r="3"/>
+    <circle cx="885" cy="35" r="3"/>
+    <circle cx="645" cy="70" r="3"/>
+    <circle cx="945" cy="70" r="3"/>
+    <circle cx="705" cy="140" r="3"/>
+    <circle cx="825" cy="140" r="3"/>
+    <circle cx="645" cy="175" r="3"/>
+    <circle cx="945" cy="175" r="3"/>
+  </g>
+  <g fill="#e6e8ef">
+    <circle cx="945" cy="35" r="3"/>
+    <circle cx="765" cy="70" r="3"/>
+    <circle cx="885" cy="105" r="3"/>
+    <circle cx="645" cy="140" r="3"/>
+    <circle cx="765" cy="175" r="3"/>
+    <circle cx="885" cy="175" r="3"/>
+  </g>
+
+  <!-- the cell in the intermediate alpha state: the idea the PhD is built on -->
+  <circle cx="765" cy="105" r="26" fill="url(#glow)"/>
+  <circle cx="765" cy="105" r="6" fill="#a855f7">
+    <animate attributeName="r" values="5;7.5;5" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="765" y="205" font-family="'DejaVu Sans Mono', 'Courier New', monospace" font-size="11" fill="#a855f7" text-anchor="middle" letter-spacing="2">0 · α · 1</text>
+
+  <!-- name block -->
+  <rect x="50" y="62" width="42" height="4" fill="#6F3AFF"/>
+  <text x="50" y="102" font-family="'DejaVu Sans', Arial, sans-serif" font-size="42" font-weight="700" fill="#f0f0f0">Emir Husain</text>
+  <text x="50" y="132" font-family="'DejaVu Sans', Arial, sans-serif" font-size="16" fill="#9aa1b1">Neuromorphic &amp; Memristive Computing Researcher</text>
+  <text x="50" y="156" font-family="'DejaVu Sans', Arial, sans-serif" font-size="16" fill="#9aa1b1">PhD Candidate, Monash University Malaysia</text>
+  <text x="50" y="178" font-family="'DejaVu Sans', Arial, sans-serif" font-size="12" fill="#666d80">Semiconductor Systems &amp; Devices Group · Advisor: Dr. Patrick W.C. Ho</text>
+</svg>
