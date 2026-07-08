@@ -180,12 +180,35 @@ function inject(content, marker, value) {
   return content.replace(pattern, `${start}\n${value}\n${end}`);
 }
 
+function extractExisting(content, marker) {
+  const start = `<!--${marker}:START-->`;
+  const end = `<!--${marker}:END-->`;
+  const pattern = new RegExp(`${start}[\\r\\n]*([\\s\\S]*?)[\\r\\n]*${end}`);
+  const match = content.match(pattern);
+  return match ? match[1].trim() : '';
+}
+
 async function main() {
   let readme = readFileSync('README.md', 'utf8');
-  const [activity, languages] = await Promise.all([
-    buildActivitySection(),
-    buildLanguageSection(),
-  ]);
+  
+  let activity;
+  try {
+    activity = await buildActivitySection();
+  } catch (err) {
+    console.warn('Could not update Recent Activity:', err.message);
+    const existing = extractExisting(readme, 'RECENT_ACTIVITY');
+    activity = existing || '<p align="center"><i>Live activity update pending (API rate limit)...</i></p>';
+  }
+
+  let languages;
+  try {
+    languages = await buildLanguageSection();
+  } catch (err) {
+    console.warn('Could not update Languages:', err.message);
+    const existing = extractExisting(readme, 'LANGUAGES');
+    languages = existing || '<p align="center"><i>Live languages update pending (API rate limit)...</i></p>';
+  }
+
   readme = inject(readme, 'RECENT_ACTIVITY', activity);
   readme = inject(readme, 'LANGUAGES', languages);
   writeFileSync('README.md', readme);
@@ -193,6 +216,6 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error(err);
+  console.error('Critical failure:', err);
   process.exit(1);
 });

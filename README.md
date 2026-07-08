@@ -150,7 +150,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <td width="50%" valign="top">
       <h3>🕒 Recent Activity</h3>
 <!--RECENT_ACTIVITY:START-->
-
+<p align="center"><i>Live activity update pending (API rate limit)...</i></p>
 <!--RECENT_ACTIVITY:END-->
     </td>
     <td width="50%" valign="top">
