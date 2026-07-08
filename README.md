@@ -92,7 +92,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
 
 | Domain | Technologies |
 | :--- | :--- |
-| **🧠 Research & Sim** | `Neuromorphic Architectures` · `Memristive Systems` · `SNNs` · `Computational Biology` |
+| **🧠 Research & Sim** | ![Neuromorphic Architectures](https://img.shields.io/badge/Neuromorphic_Architectures-a855f7?style=flat-square) ![Memristive Systems](https://img.shields.io/badge/Memristive_Systems-a855f7?style=flat-square) ![SNNs](https://img.shields.io/badge/SNNs-a855f7?style=flat-square) ![Computational Biology](https://img.shields.io/badge/Computational_Biology-a855f7?style=flat-square) |
 | **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
 | **⚙️ Engines & Tools** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **☁️ DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) |
@@ -134,10 +134,10 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
 
 <div align="center">
   <a href="https://github.com/Emir2099/Ardent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=Ardent&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Emir2099&repo=Ardent&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
   </a>
   <a href="https://github.com/Emir2099/chess_with_unity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=chess_with_unity&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Emir2099&repo=chess_with_unity&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
   </a>
 </div>
 
@@ -145,28 +145,91 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
 
 ## 📊 Live Insights & Activity
 
-### 🕒 Recent Activity
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕒 Recent Activity</h3>
 <!--RECENT_ACTIVITY:START-->
-| Action Log | Timestamp |
-| :--- | :--- |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/MemristorSim-3D` | _5d ago_ |
-| 🔨 Pushed **0 commit(s)** to `Emir2099/MemristorSim-3D` | _6d ago_ |
+<table width="100%" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 6px;">
+  <thead>
+    <tr style="background-color: #161b22;">
+      <th align="left" style="padding: 8px; font-size: 13px;">Action Log</th>
+      <th align="left" style="padding: 8px; font-size: 13px;">Timestamp</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/MemristorSim-3D</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>5d ago</i></td>
+  </tr>
+  </tbody>
+</table>
 <!--RECENT_ACTIVITY:END-->
-
-### 💻 Language Footprint
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Language Footprint</h3>
 <!--LANGUAGES:START-->
-| Language | Distribution | Weight |
-| :--- | :--- | :--- |
-| **JavaScript** | `█████░░░░░░░░░░░░░░░░░░░░` | **20.5%** |
-| **C** | `████░░░░░░░░░░░░░░░░░░░░░` | **14.3%** |
-| **Python** | `███░░░░░░░░░░░░░░░░░░░░░░` | **11.7%** |
-| **C++** | `███░░░░░░░░░░░░░░░░░░░░░░` | **10.5%** |
-| **TypeScript** | `██░░░░░░░░░░░░░░░░░░░░░░░` | **8.9%** |
-| **C#** | `██░░░░░░░░░░░░░░░░░░░░░░░` | **8.7%** |
+<table width="100%" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 6px;">
+  <thead>
+    <tr style="background-color: #161b22;">
+      <th align="left" style="padding: 8px; font-size: 13px;">Language</th>
+      <th align="left" style="padding: 8px; font-size: 13px;">Distribution</th>
+      <th align="left" style="padding: 8px; font-size: 13px;">Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/JavaScript-a855f7?style=flat-square" alt="JavaScript" valign="middle"/></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>███░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>23.7%</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C-a855f7?style=flat-square" alt="C" valign="middle"/></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>███░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>21.2%</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Python-a855f7?style=flat-square" alt="Python" valign="middle"/></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>16.0%</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C%2B%2B-a855f7?style=flat-square" alt="C++" valign="middle"/></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>14.6%</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/TypeScript-a855f7?style=flat-square" alt="TypeScript" valign="middle"/></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.9%</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Assembly-a855f7?style=flat-square" alt="Assembly" valign="middle"/></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>5.3%</b></td>
+  </tr>
+  </tbody>
+</table>
 <!--LANGUAGES:END-->
+    </td>
+  </tr>
+</table>
 
 <sub>Refreshed automatically every 6 hours by `update-readme.yml` via GitHub Actions.</sub>
 
@@ -175,12 +238,12 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emir2099&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&bg_color=0d1117" alt="Emir's GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Emir2099&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&bg_color=0d1117" alt="Emir's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir2099&theme=midnight-purple&hide_border=true&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&background=0d1117" alt="Emir's Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Emir2099&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
 </p>
 
 <p align="center">
