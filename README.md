@@ -150,9 +150,6 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <td width="50%" valign="top">
       <h3>🕒 Recent Activity</h3>
 <!--RECENT_ACTIVITY:START-->
-<<<<<<< HEAD
-<p align="center"><i>Live activity update pending (API rate limit)...</i></p>
-=======
 <table width="100%" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 6px;">
   <thead>
     <tr style="background-color: #161b22;">
@@ -183,7 +180,6 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   </tr>
   </tbody>
 </table>
->>>>>>> e680438f46636535e0c609cbc4bdb8fcde08eb5d
 <!--RECENT_ACTIVITY:END-->
     </td>
     <td width="50%" valign="top">
