@@ -150,6 +150,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <td width="50%" valign="top">
       <h3>🕒 Recent Activity</h3>
 <!--RECENT_ACTIVITY:START-->
+<<<<<<< HEAD
 <table width="100%" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 6px;">
   <thead>
     <tr style="background-color: #161b22;">
@@ -180,6 +181,15 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   </tr>
   </tbody>
 </table>
+=======
+| Action Log | Timestamp |
+| :--- | :--- |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/MemristorSim-3D` | _5d ago_ |
+>>>>>>> 3c9918faa35c6c2f2067332f7569f1a1c4ee8d57
 <!--RECENT_ACTIVITY:END-->
     </td>
     <td width="50%" valign="top">
