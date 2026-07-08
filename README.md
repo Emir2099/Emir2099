@@ -41,12 +41,21 @@ I work at the intersection of neuromorphic hardware, memristive devices, and com
 
 **Recent activity**
 <!--RECENT_ACTIVITY:START-->
-_Populates after the first workflow run — see setup note below._
+- 🔨 Pushed 0 commit(s) to `Emir2099/Emir2099` · _just now_
+- 🔨 Pushed 0 commit(s) to `Emir2099/MemristorSim-3D` · _5d ago_
+- 🔨 Pushed 0 commit(s) to `Emir2099/MemristorSim-3D` · _6d ago_
+- 🔨 Pushed 0 commit(s) to `Emir2099/MemristorSim-3D` · _6d ago_
+- 🔨 Pushed 0 commit(s) to `Emir2099/MemristorSim-3D` · _6d ago_
 <!--RECENT_ACTIVITY:END-->
 
 **Language footprint** (by bytes, across owned repos)
 <!--LANGUAGES:START-->
-_Populates after the first workflow run — see setup note below._
+`JavaScript  ` ████░░░░░░░░░░░░░░░░ 20.5%
+`C           ` ███░░░░░░░░░░░░░░░░░ 14.3%
+`Python      ` ██░░░░░░░░░░░░░░░░░░ 11.7%
+`C++         ` ██░░░░░░░░░░░░░░░░░░ 10.5%
+`TypeScript  ` ██░░░░░░░░░░░░░░░░░░ 8.9%
+`C#          ` ██░░░░░░░░░░░░░░░░░░ 8.7%
 <!--LANGUAGES:END-->
 
 <sub>Refreshed automatically every 6 hours by [`update-readme.yml`](./.github/workflows/update-readme.yml), which queries `api.github.com` directly and rewrites this section — see [`scripts/update-readme.mjs`](./scripts/update-readme.mjs). No third-party widget services.</sub>
