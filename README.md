@@ -163,8 +163,8 @@ I work at the intersection of neuromorphic hardware, memristive devices, and com
 **Recent activity**
 <!--RECENT_ACTIVITY:START-->
 - 🔨 Pushed 0 commit(s) to `Emir2099/Emir2099` · _just now_
+- 🔨 Pushed 0 commit(s) to `Emir2099/Emir2099` · _just now_
 - 🔨 Pushed 0 commit(s) to `Emir2099/MemristorSim-3D` · _5d ago_
-- 🔨 Pushed 0 commit(s) to `Emir2099/MemristorSim-3D` · _6d ago_
 - 🔨 Pushed 0 commit(s) to `Emir2099/MemristorSim-3D` · _6d ago_
 - 🔨 Pushed 0 commit(s) to `Emir2099/MemristorSim-3D` · _6d ago_
 <!--RECENT_ACTIVITY:END-->
