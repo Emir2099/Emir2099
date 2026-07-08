@@ -36,28 +36,35 @@ function timeAgo(iso) {
 // Map GitHub event types to a readable, emoji-tagged line.
 // Only event types worth surfacing are included; everything else is skipped.
 const EVENT_LABELS = {
-  PushEvent: (e) =>
-    `🔨 Pushed ${e.payload.commits?.length ?? 0} commit(s) to \`${e.repo.name}\``,
+  PushEvent: (e) => {
+    const commitsCount = e.payload.commits?.length ?? 0;
+    return `🔨 Pushed **${commitsCount} commit(s)** to \`${e.repo.name}\``;
+  },
   PullRequestEvent: (e) =>
-    `🔀 ${e.payload.action} a pull request in \`${e.repo.name}\``,
+    `🔀 **${e.payload.action}** a pull request in \`${e.repo.name}\``,
   IssuesEvent: (e) =>
-    `🐛 ${e.payload.action} an issue in \`${e.repo.name}\``,
+    `🐛 **${e.payload.action}** an issue in \`${e.repo.name}\``,
   CreateEvent: (e) =>
-    `✨ Created ${e.payload.ref_type}${e.payload.ref ? ` \`${e.payload.ref}\`` : ''} in \`${e.repo.name}\``,
+    `✨ Created **${e.payload.ref_type}** \`${e.payload.ref || ''}\` in \`${e.repo.name}\``,
   ReleaseEvent: (e) => `🚀 Published a release in \`${e.repo.name}\``,
   PublicEvent: (e) => `📢 Made \`${e.repo.name}\` public`,
 };
 
 async function buildActivitySection() {
   const events = await gh(`/users/${USERNAME}/events/public?per_page=30`);
-  const lines = [];
+  const rows = [];
   for (const e of events) {
     const fmt = EVENT_LABELS[e.type];
     if (!fmt) continue;
-    lines.push(`- ${fmt(e)} · _${timeAgo(e.created_at)}_`);
-    if (lines.length === 5) break;
+    rows.push(`| ${fmt(e)} | _${timeAgo(e.created_at)}_ |`);
+    if (rows.length === 5) break;
   }
-  return lines.length ? lines.join('\n') : '_No recent public activity in the last 90 days._';
+  if (!rows.length) return '_No recent public activity in the last 90 days._';
+  return [
+    '| Action Log | Timestamp |',
+    '| :--- | :--- |',
+    ...rows
+  ].join('\n');
 }
 
 async function buildLanguageSection() {
@@ -86,15 +93,19 @@ async function buildLanguageSection() {
 
   if (!top.length) return '_Not enough public repo data yet._';
 
-  const BAR_WIDTH = 20;
-  return top
-    .map(([lang, bytes]) => {
-      const pct = bytes / sum;
-      const filled = Math.max(1, Math.round(pct * BAR_WIDTH));
-      const bar = '█'.repeat(filled) + '░'.repeat(BAR_WIDTH - filled);
-      return `\`${lang.padEnd(12)}\` ${bar} ${(pct * 100).toFixed(1)}%`;
-    })
-    .join('\n');
+  const BAR_WIDTH = 25;
+  const rows = top.map(([lang, bytes]) => {
+    const pct = bytes / sum;
+    const filled = Math.max(1, Math.round(pct * BAR_WIDTH));
+    const bar = '█'.repeat(filled) + '░'.repeat(BAR_WIDTH - filled);
+    return `| **${lang}** | \`${bar}\` | **${(pct * 100).toFixed(1)}%** |`;
+  });
+
+  return [
+    '| Language | Distribution | Weight |',
+    '| :--- | :--- | :--- |',
+    ...rows
+  ].join('\n');
 }
 
 function inject(content, marker, value) {

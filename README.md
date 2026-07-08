@@ -1,122 +1,214 @@
 <div align="center">
 
-<!-- Title with Gradient and Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3AFF&center=true&vCenter=true&random=false&width=500&height=70&lines=%E2%9A%A1%EF%B8%8F+Hello+World!;I'm+Emir+%F0%9F%91%8B;" alt="Typing SVG" />
-</h1>
+<!-- Custom SVG Banner -->
+<img src="assets/banner.svg" width="100%" alt="Emir Husain Banner" />
 
-<!-- Profile Views Counter with Animation -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emir2099&style=for-the-badge&color=blueviolet">
-  <img src="https://img.shields.io/github/followers/Emir2099?style=for-the-badge&color=blueviolet">
-  <img src="https://img.shields.io/github/stars/Emir2099?style=for-the-badge&color=blueviolet">
+<br/><br/>
+
+<!-- Profile Views Counter & Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emir2099&style=for-the-badge&color=8a2be2" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/Emir2099?style=for-the-badge&color=8a2be2" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Emir2099?style=for-the-badge&color=8a2be2" alt="Stars"/>
+</p>
+
 </div>
 
-<!-- Animated Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=header"/>
+---
 
-<!-- About Me Section -->
-<table>
-  <tr>
-    <td width="50%">
-      <h2>🚀 About Me</h2>
-      <img align="right" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-      <ul align="left">
-        <li>🎮 Avid gamer and tech enthusiast</li>
-        <li>💻 Currently mastering Neuromorphic system</li>
-        <li>🌱 Always exploring new technologies</li>
-        <li>🎯 2026 Goals: Take on more research work</li>
-        <li>⚡ Fun fact: I get cool project ideas during exams!</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h2>⚡ Current Status</h2>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emir2099&bg_color=0d1117&color=6F3AFF&line=6F3AFF&point=FFFFFF&area=true&hide_border=true" width="100%">
-    </td>
-  </tr>
-</table>
+## 🚀 About Me
 
-<!-- Skill Bars -->
-<h2>💻 Technical Skills</h2>
+I am a **Neuromorphic & Memristive Systems Researcher** working at the intersection of analog-digital neuromorphic hardware, memristive in-memory computing, and computational modeling. My current focus is bridging structural plasticity and stable memory retention to build energy-efficient, brain-inspired computing paradigms.
 
+- 🎓 **B.Tech in Computer Science & Engineering** — VIT Chennai (CGPA 9.01/10)
+- 🏆 **APJ Abdul Kalam Award** & **IEEE YESIST12'24 Finalist**
+- 🤝 **Open to collaboration** on neuromorphic hardware, memristive systems, and spiking neural networks.
 
-<!-- Tech Stack with Hover Effects -->
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/AOI.js-FF1B2D?style=for-the-badge&logo=javascript&logoColor=white" alt="AOI.js" />
-  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/blueprints-%23137CBD.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprints" />
+---
+
+## 📄 Peer-Reviewed Publications
+
+<div style="display: flex; flex-direction: column; gap: 15px;">
+
+  <!-- Paper 1 -->
+  <table style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 8px; width: 100%; margin-bottom: 12px; background-color: #0d1117;">
+    <tr style="background-color: #161b22;">
+      <th align="left" style="padding: 10px; color: #a855f7;">🧠 NEUROMORPHIC COMPUTING</th>
+      <th align="right" style="padding: 10px;"><span style="background-color: #238636; color: white; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold;">IEEE ACCESS (2025)</span></th>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 15px;">
+        <strong>A Hybrid Neuromorphic Framework With Dual-Mode Memory and Adaptive Synaptic Plasticity</strong>
+        <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px 0;">
+          Proposes an integrated analog-digital neuromorphic framework featuring dual-mode memory. Solves the speed vs. precision trade-off by combining short-term plasticity and long-term potentiation.
+        </p>
+        <a href="https://doi.org/10.1109/ACCESS.2025.3516548" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FACCESS.2025-6F3AFF?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
+        <a href="https://www.researchgate.net/publication/387431780_A_Hybrid_Neuromorphic_Framework_With_Dual-Mode_Memory_and_Adaptive_Synaptic_Plasticity" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-PDF-blue?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Paper 2 -->
+  <table style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 8px; width: 100%; margin-bottom: 12px; background-color: #0d1117;">
+    <tr style="background-color: #161b22;">
+      <th align="left" style="padding: 10px; color: #a855f7;">⚡ EDGE INFRASTRUCTURE</th>
+      <th align="right" style="padding: 10px;"><span style="background-color: #238636; color: white; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold;">IEEE ACCESS (2026)</span></th>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 15px;">
+        <strong>S-Edge: A Multi-Region Edge Computing Framework With Adaptive Data Compression and Dynamic Load Balancing</strong>
+        <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px 0;">
+          Introduces a load balancing framework for edge computing nodes using a hysteresis-based decision loop and on-the-fly packet compression to maximize network throughput and minimize latency.
+        </p>
+        <a href="https://ieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FACCESS.2026-6F3AFF?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
+        <a href="https://www.researchgate.net/publication/389025178_S-Edge_A_Multi-Region_Edge_Computing_Framework_With_Adaptive_Data_Compression_and_Dynamic_Load_Balancing" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-PDF-blue?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Paper 3 -->
+  <table style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 8px; width: 100%; margin-bottom: 12px; background-color: #0d1117;">
+    <tr style="background-color: #161b22;">
+      <th align="left" style="padding: 10px; color: #a855f7;">🔬 NANOELECTROMECHANICAL SYSTEMS (NEMS)</th>
+      <th align="right" style="padding: 10px;"><span style="background-color: #238636; color: white; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold;">IEEE ACCESS (2026)</span></th>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 15px;">
+        <strong>Stochastic-Resilient NEMS: A Discretized Architecture for Phase-Change Frequency Tuning</strong>
+        <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px 0;">
+          Tackles stochastic thermal noise in phase-change frequency-tunable resonators by implementing discretized phase-change nanodot arrays, significantly boosting signal stability.
+        </p>
+        <a href="https://ieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FACCESS.2026.NEMS-6F3AFF?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
+        <a href="https://www.researchgate.net/publication/389825178_Stochastic-Resilient_NEMS_A_Discretized_Architecture_for_Phase-Change_Frequency_Tuning" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-PDF-blue?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
+---
 
-<!-- Projects Section with 3D Cards -->
-<h2>🎯 Featured Projects</h2>
+## 💻 Technical Architecture & Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **🧠 Research & Sim** | `Neuromorphic Architectures` · `Memristive Systems` · `SNNs` · `Computational Biology` |
+| **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **⚙️ Engines & Tools** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **☁️ DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) |
+| **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+---
+
+## 🎯 Featured Projects
+
+<div style="display: flex; flex-direction: column; gap: 15px;">
+
+  <!-- Axiom Zero -->
+  <table style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 8px; width: 100%; margin-bottom: 12px; background-color: #0d1117;">
+    <tr style="background-color: #161b22;">
+      <th align="left" style="padding: 10px; color: #a855f7;">🎮 Axiom Zero (In Development)</th>
+      <th align="right" style="padding: 10px;"><span style="background-color: #8a2be2; color: white; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold;">Unreal Engine 5.6</span></th>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 15px;">
+        A sci-fi cyberpunk third-person shooter featuring an 18-mission narrative across 5 city zones, built with a custom neural-ability upgrade tree and event-driven AI systems.
+      </td>
+    </tr>
+  </table>
+
+  <!-- NeuroSpark OS -->
+  <table style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 8px; width: 100%; margin-bottom: 12px; background-color: #0d1117;">
+    <tr style="background-color: #161b22;">
+      <th align="left" style="padding: 10px; color: #a855f7;">🖥️ NeuroSpark OS</th>
+      <th align="right" style="padding: 10px;"><span style="background-color: #238636; color: white; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold;">Systems (C / Assembly)</span></th>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 15px;">
+        A bare-metal x86 operating system featuring kernel-space Spiking Neural Network (SNN) simulation and custom neuromorphic hardware context switching.
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 <div align="center">
   <a href="https://github.com/Emir2099/Ardent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=Ardent&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=Ardent&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
   </a>
   <a href="https://github.com/Emir2099/chess_with_unity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=chess_with_unity&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emir2099&repo=chess_with_unity&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&hide_border=true" />
   </a>
 </div>
 
-<!-- GitHub Stats with Animations -->
-<h2>📊 GitHub Statistics</h2>
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Emir2099&show_icons=true&count_private=true&hide_border=true&title_color=6F3AFF&icon_color=6F3AFF&text_color=c9d1d9&bg_color=0d1117" alt="Emir's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emir2099&layout=compact&hide_border=true&title_color=6F3AFF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+---
 
-<!-- Trophy Section with Glow -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
-</div>
+## 📊 Live Insights & Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir2099&theme=midnight-purple&hide_border=true&stroke=6F3AFF&ring=6F3AFF&fire=6F3AFF&currStreakLabel=6F3AFF&background=0d1117" />
-</div>
+### 🕒 Recent Activity
+<!--RECENT_ACTIVITY:START-->
+| Action Log | Timestamp |
+| :--- | :--- |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/Emir2099` | _just now_ |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/MemristorSim-3D` | _5d ago_ |
+| 🔨 Pushed **0 commit(s)** to `Emir2099/MemristorSim-3D` | _6d ago_ |
+<!--RECENT_ACTIVITY:END-->
 
-<!-- Contribution Snake -->
-<div align="center">
+### 💻 Language Footprint
+<!--LANGUAGES:START-->
+| Language | Distribution | Weight |
+| :--- | :--- | :--- |
+| **JavaScript** | `█████░░░░░░░░░░░░░░░░░░░░` | **20.5%** |
+| **C** | `████░░░░░░░░░░░░░░░░░░░░░` | **14.3%** |
+| **Python** | `███░░░░░░░░░░░░░░░░░░░░░░` | **11.7%** |
+| **C++** | `███░░░░░░░░░░░░░░░░░░░░░░` | **10.5%** |
+| **TypeScript** | `██░░░░░░░░░░░░░░░░░░░░░░░` | **8.9%** |
+| **C#** | `██░░░░░░░░░░░░░░░░░░░░░░░` | **8.7%** |
+<!--LANGUAGES:END-->
+
+<sub>Refreshed automatically every 6 hours by `update-readme.yml` via GitHub Actions.</sub>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emir2099&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=9aa1b1&bg_color=0d1117" alt="Emir's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emir2099&theme=midnight-purple&hide_border=true&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&background=0d1117" alt="Emir's Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emir2099&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</p>
 
-<!-- Connect Section -->
-<h2>🤝 Let's Connect</h2>
-<div align="center">
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/emir-husain-79555624a/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:emirsteveroger@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
-<!-- Random Dev Quote -->
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+</p>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=footer"/>
-
-<!-- Hidden Easter Egg -->
+<div align="center">
 <details>
 <summary>🎮 Click here for a surprise!</summary>
 <br>
@@ -125,5 +217,4 @@
   <h3>Thanks for finding the easter egg! 🎉</h3>
 </div>
 </details>
-
 </div>
