@@ -42,8 +42,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
         <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px 0;">
           Proposes an integrated analog-digital neuromorphic framework featuring dual-mode memory. Solves the speed vs. precision trade-off by combining short-term plasticity and long-term potentiation.
         </p>
-        <a href="https://doi.org/10.1109/ACCESS.2025.3516548" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FACCESS.2025-6F3AFF?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
-        <a href="https://www.researchgate.net/publication/387431780_A_Hybrid_Neuromorphic_Framework_With_Dual-Mode_Memory_and_Adaptive_Synaptic_Plasticity" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-PDF-blue?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+        <a href="https://doi.org/10.1109/ACCESS.2025.3622352" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FACCESS.2025.3622352-6F3AFF?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
       </td>
     </tr>
   </table>
@@ -60,8 +59,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
         <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px 0;">
           Introduces a load balancing framework for edge computing nodes using a hysteresis-based decision loop and on-the-fly packet compression to maximize network throughput and minimize latency.
         </p>
-        <a href="https://ieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FACCESS.2026-6F3AFF?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
-        <a href="https://www.researchgate.net/publication/389025178_S-Edge_A_Multi-Region_Edge_Computing_Framework_With_Adaptive_Data_Compression_and_Dynamic_Load_Balancing" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-PDF-blue?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+        <a href="https://doi.org/10.1109/ACCESS.2026.3696637" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FACCESS.2026.3696637-6F3AFF?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
       </td>
     </tr>
   </table>
@@ -69,17 +67,17 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   <!-- Paper 3 -->
   <table style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 8px; width: 100%; margin-bottom: 12px; background-color: #0d1117;">
     <tr style="background-color: #161b22;">
-      <th align="left" style="padding: 10px; color: #a855f7;">🔬 NANOELECTROMECHANICAL SYSTEMS (NEMS)</th>
-      <th align="right" style="padding: 10px;"><span style="background-color: #238636; color: white; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold;">IEEE ACCESS (2026)</span></th>
+      <th align="left" style="padding: 10px; color: #a855f7;">💾 DATA MODELING / EMBEDDED SYSTEMS</th>
+      <th align="right" style="padding: 10px;"><span style="background-color: #00768f; color: white; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: bold;">SCIENTIFIC REPORTS (NATURE)</span></th>
     </tr>
     <tr>
       <td colspan="2" style="padding: 15px;">
-        <strong>Stochastic-Resilient NEMS: A Discretized Architecture for Phase-Change Frequency Tuning</strong>
+        <strong>Circular Loop Data Model (CLDM): A Novel Approach To Simplifying Data Management for Rapid Prototyping</strong>
         <p style="color: #8b949e; font-size: 13px; margin: 8px 0 12px 0;">
-          Tackles stochastic thermal noise in phase-change frequency-tunable resonators by implementing discretized phase-change nanodot arrays, significantly boosting signal stability.
+          Introduces a lightweight data model and domain-specific language (DSL) structuring application state as named parallel string loops in a single BSON file. Provides schema-free concurrency and fast reads for local embedded/prototyping workloads.
         </p>
-        <a href="https://ieeexplore.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FACCESS.2026.NEMS-6F3AFF?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
-        <a href="https://www.researchgate.net/publication/389825178_Stochastic-Resilient_NEMS_A_Discretized_Architecture_for_Phase-Change_Frequency_Tuning" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-PDF-blue?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+        <img src="https://img.shields.io/badge/Scientific_Reports-Nature-success?style=flat-square" alt="Scientific Reports" />
+        <img src="https://img.shields.io/badge/Status-Accepted_/_In_Press-blueviolet?style=flat-square" alt="Accepted" />
       </td>
     </tr>
   </table>
@@ -159,24 +157,24 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   </thead>
   <tbody>
   <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/QAT-Superposition</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/CREATE-8a2be2?style=flat-square" alt="Create" valign="middle"/> Created <b>branch</b> <code>main</code> in <code>Emir2099/QAT-Superposition</code></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>1d ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>1d ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>just now</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>1d ago</i></td>
   </tr>
   </tbody>
 </table>
@@ -196,33 +194,33 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   <tbody>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/JavaScript-a855f7?style=flat-square" alt="JavaScript" valign="middle"/></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>20.5%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>███░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>21.2%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C-a855f7?style=flat-square" alt="C" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>14.3%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>14.7%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Python-a855f7?style=flat-square" alt="Python" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>11.7%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>12.2%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C%2B%2B-a855f7?style=flat-square" alt="C++" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>10.5%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>10.6%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/TypeScript-a855f7?style=flat-square" alt="TypeScript" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.9%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>9.2%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C%23-a855f7?style=flat-square" alt="C#" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.7%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>9.0%</b></td>
   </tr>
   </tbody>
 </table>
