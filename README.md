@@ -157,24 +157,24 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   </thead>
   <tbody>
   <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUBLIC-22c55e?style=flat-square" alt="Public" valign="middle"/> Made <code>Emir2099/github_insights</code> public</td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>343d ago</i></td>
+  </tr>
+  <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>6d ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>7d ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/QAT-Superposition</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>6d ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>7d ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/CREATE-8a2be2?style=flat-square" alt="Create" valign="middle"/> Created <b>branch</b> <code>main</code> in <code>Emir2099/QAT-Superposition</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>6d ago</i></td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>7d ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>7d ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>8d ago</i></td>
   </tr>
   </tbody>
 </table>
@@ -194,33 +194,33 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   <tbody>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/JavaScript-a855f7?style=flat-square" alt="JavaScript" valign="middle"/></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>███░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>21.2%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>16.7%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C-a855f7?style=flat-square" alt="C" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>14.7%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>14.1%</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Dart-a855f7?style=flat-square" alt="Dart" valign="middle"/></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>11.9%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Python-a855f7?style=flat-square" alt="Python" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>12.2%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>11.7%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C%2B%2B-a855f7?style=flat-square" alt="C++" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>10.6%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>10.4%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/TypeScript-a855f7?style=flat-square" alt="TypeScript" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>9.2%</b></td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C%23-a855f7?style=flat-square" alt="C#" valign="middle"/></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>9.0%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.8%</b></td>
   </tr>
   </tbody>
 </table>
