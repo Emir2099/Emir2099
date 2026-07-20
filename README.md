@@ -158,7 +158,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   <tbody>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUBLIC-22c55e?style=flat-square" alt="Public" valign="middle"/> Made <code>Emir2099/github_insights</code> public</td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>346d ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>347d ago</i></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
