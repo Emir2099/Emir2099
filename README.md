@@ -161,7 +161,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>357d ago</i></td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>21d ago</i></td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>21d ago</i></td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>2 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>1 commit(s)</b> to <code>Emir2099/Emir2099</code></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>22d ago</i></td>
   </tr>
   </tbody>
@@ -195,32 +195,32 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/JavaScript-a855f7?style=flat-square" alt="JavaScript" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>16.7%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>19.9%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C-a855f7?style=flat-square" alt="C" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>14.1%</b></td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Dart-a855f7?style=flat-square" alt="Dart" valign="middle"/></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>11.9%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>13.8%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Python-a855f7?style=flat-square" alt="Python" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>11.7%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>11.5%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C%2B%2B-a855f7?style=flat-square" alt="C++" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>10.4%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>10.2%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/TypeScript-a855f7?style=flat-square" alt="TypeScript" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.8%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.7%</b></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Dart-a855f7?style=flat-square" alt="Dart" valign="middle"/></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.5%</b></td>
   </tr>
   </tbody>
 </table>
