@@ -160,10 +160,6 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>3 commit(s)</b> to <code>Emir2099/MemristorSim-3D</code></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>29d ago</i></td>
   </tr>
-  <tr>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/PUSH-6F3AFF?style=flat-square" alt="Push" valign="middle"/> Pushed <b>5 commit(s)</b> to <code>Emir2099/MemristorSim-3D</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>30d ago</i></td>
-  </tr>
   </tbody>
 </table>
 <!--RECENT_ACTIVITY:END-->
