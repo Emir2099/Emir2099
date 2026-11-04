@@ -148,7 +148,20 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
     <td width="50%" valign="top">
       <h3>🕒 Recent Activity</h3>
 <!--RECENT_ACTIVITY:START-->
-<p><i>No recent public activity.</i></p>
+<table width="100%" style="border: 1px solid #30363d; border-collapse: collapse; border-radius: 6px;">
+  <thead>
+    <tr style="background-color: #161b22;">
+      <th align="left" style="padding: 8px; font-size: 13px;">Action Log</th>
+      <th align="left" style="padding: 8px; font-size: 13px;">Timestamp</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/CREATE-8a2be2?style=flat-square" alt="Create" valign="middle"/> Created <b>branch</b> <code>main</code> in <code>Emir2099/Divergence-of-training-error-in-directed-aging</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>18h ago</i></td>
+  </tr>
+  </tbody>
+</table>
 <!--RECENT_ACTIVITY:END-->
     </td>
     <td width="50%" valign="top">
