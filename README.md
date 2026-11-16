@@ -158,7 +158,7 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   <tbody>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/CREATE-8a2be2?style=flat-square" alt="Create" valign="middle"/> Created <b>branch</b> <code>main</code> in <code>Emir2099/Divergence-of-training-error-in-directed-aging</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>11d ago</i></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><i>12d ago</i></td>
   </tr>
   </tbody>
 </table>
@@ -178,33 +178,33 @@ I am a **Neuromorphic & Memristive Systems Researcher** working at the intersect
   <tbody>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Python-a855f7?style=flat-square" alt="Python" valign="middle"/></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>20.1%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>███░░░░░░░░░</code></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>20.9%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/JavaScript-a855f7?style=flat-square" alt="JavaScript" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>16.3%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>16.1%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C-a855f7?style=flat-square" alt="C" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>██░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>13.7%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>13.6%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/TypeScript-a855f7?style=flat-square" alt="TypeScript" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>9.7%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>9.6%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/C%2B%2B-a855f7?style=flat-square" alt="C++" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>9.7%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>9.6%</b></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><img src="https://img.shields.io/badge/Dart-a855f7?style=flat-square" alt="Dart" valign="middle"/></td>
     <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><code>█░░░░░░░░░░░</code></td>
-    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.4%</b></td>
+    <td style="padding: 8px; border-top: 1px solid #30363d; font-size: 13px;"><b>8.3%</b></td>
   </tr>
   </tbody>
 </table>
